@@ -1,0 +1,7 @@
+﻿  array.cpp
+C:\Users\LENOVO\Desktop\DS\array\array.cpp(51,5): error C2872: 'array': ambiguous symbol
+  C:\Users\LENOVO\Desktop\DS\array\array.cpp(3,7):
+  could be 'array'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(147,7):
+  or       'std::array'
+  
